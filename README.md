@@ -13,7 +13,7 @@ Here is the step by step break down of how to use the codes.
 
 **Step 2:** use prepare_MLDE_fitness_input.R to generate customized fitness file for MLDE fitness prediction.
 
-**Step 3:** Run_MLDE.sh and the parameter files in ./RUN MLDE to run MLDE.
+**Step 3:** Use Run_MLDE.sh with the scripts and parameter files in ./RUN MLDE to run MLDE.
 
 **Step 4:** Use Organise_MLDE_output.sh to prepare the MLDE results for analyses in R.
 
