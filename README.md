@@ -1,5 +1,5 @@
-# "Machine learning-assisted engineering of activity-enhanced Staphylococcus aureus Cas9’s KKH variant for genome editing"
-This repository contains the analysis source code used running MLDE for **SpCas9** in the paper "Machine learning-assisted engineering of activity-enhanced Staphylococcus aureus Cas9’s KKH variant for genome editing" by Dawn Thean et al.
+# "Machine learning-coupled combinatorial mutagenesis enables resource-efficient engineering of CRISPR-Cas9 genome editor activities."
+This repository contains the analysis source code used running MLDE for **SpCas9** and **SaCas9** in the paper "Machine learning-coupled combinatorial mutagenesis enables resource-efficient engineering of CRISPR-Cas9 genome editor activities" by Dawn Thean et al.
 
 ## Prerequisite
 Please go to the MLDE github page [https://github.com/fhalab/MLDE](https://github.com/fhalab/MLDE) to install and run MLDE according to user's instruction.
